@@ -4,7 +4,7 @@ Data Science & Business Analytics Internship
 
 TASK 1 - Prediction using supervised Machine Learning
 
-In this task we build the model to predict the score if the student studies 9.5 hrs/day by using python
+In this task we build the model to predict the score if the student studies 9.5 hrs/day by using python   
 IDE :jupyter notebook
 
 Steps :
