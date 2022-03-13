@@ -8,7 +8,7 @@ In this task we build the model to predict the score if the student studies 9.5 
 IDE :jupyter notebook
 
 Steps :
-Import libraries\n
+#Import libraries
 Read the data
 Explore the data
 data visualization
